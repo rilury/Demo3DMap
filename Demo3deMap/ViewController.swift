@@ -14,7 +14,7 @@ class ViewController: UIViewController {
     
     var myScene = AGSScene()
     var mySurface = AGSSurface()
-    hbhjb
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         
